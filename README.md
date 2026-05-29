@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Mohammed Hatim</h1>
 
-<h3 align="center">A Engineering student from Sudan 🇸🇩</h3>
+<h3 align="center">Aspiring Electrical Engineering student from Sudan 🇸🇩</h3>
 
 <p align="center">
   🌱 Currently learning Python and Computer Science through CS50
