@@ -32,7 +32,7 @@
 <h2>📂 Current Projects</h2>
 
 <ul>
-  <li>🔢 Simple Calculator</li>
+  <li>🔢 Python Calculator</li>
   <li>🎯 Number Guessing Game</li>
   <li>✅ To-Do List App</li>
   <li>🔐 Password Generator</li>
